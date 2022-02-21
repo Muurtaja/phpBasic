@@ -6,11 +6,9 @@
 </head>
 
 <body>
-
     <?php
     echo "Hello world, I'm a PHP script!"
     ?>
-
 </body>
 
 </html>
